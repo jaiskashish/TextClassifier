@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "applicationId": "org.tensorflow.lite.codelabs.textclassification",
+  "variantType": "BASE_APK",
+  "elements": []
+}
